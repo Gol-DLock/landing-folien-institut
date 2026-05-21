@@ -5,7 +5,7 @@ import type { VariantContent } from '@/lib/variants';
 
 export default function Hero({ data }: { data: VariantContent['hero'] }) {
   return (
-    <section className="relative overflow-hidden bg-gradient-to-b from-navy-50/60 to-white pt-8 pb-12 md:pt-16 md:pb-24">
+    <section className="relative overflow-hidden bg-gradient-to-b from-navy-50/60 to-white pt-24 pb-12 md:pt-32 md:pb-24">
       <div className="container-page">
         <div className="grid items-center gap-10 md:grid-cols-2 md:gap-12">
           <div>

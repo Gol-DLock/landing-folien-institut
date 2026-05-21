@@ -16,7 +16,7 @@ export default function ConsentBanner() {
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className="fixed bottom-3 left-3 z-40 rounded-full bg-white/95 px-3 py-2 text-xs font-medium text-navy-700 shadow-md ring-1 ring-navy-200 backdrop-blur hover:bg-white"
+        className="fixed bottom-20 left-3 z-40 rounded-full bg-white/95 px-3 py-2 text-xs font-medium text-navy-700 shadow-md ring-1 ring-navy-200 backdrop-blur hover:bg-white md:bottom-3"
         aria-label="Cookie-Einstellungen öffnen"
       >
         Cookies
