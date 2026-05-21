@@ -83,7 +83,7 @@ const gewerbe: VariantContent = {
     headline: 'Endlich angenehme Räume – ohne Klima-Vollkosten.',
     sub: 'Wir reduzieren Hitze, Blendung und UV-Strahlung an Ihren Glasflächen. Schnelle Montage, präzise Ausführung, sichtbare Ergebnisse.',
     cta: 'Kostenfreies Angebot in 60 Sekunden',
-    image: '/images/header-02.png',
+    image: '/images/header-02.jpg',
     imageAlt: 'Modernes Bürogebäude mit großzügigen Glasflächen, Sonnenschutz durch Folientechnik',
   },
   pain: {
@@ -110,7 +110,7 @@ const gewerbe: VariantContent = {
   agitation: {
     headline: 'Jeder Sommer kostet Sie mehr, als Sie denken.',
     text: 'Studien zeigen: Bei Innentemperaturen über 26 °C sinkt die Arbeitsleistung um bis zu zehn Prozent. Pro Mitarbeiter, pro Stunde. Hinzu kommen ausbleichende Möbel, beschädigte Ware im Showroom und steigende Energierechnungen. Sonnenschutzfolien stoppen das Problem dort, wo es entsteht: am Glas.',
-    image: '/images/header-04.png',
+    image: '/images/header-04.jpg',
     imageAlt: 'Hochformatige Glasfassade aus Untersicht',
   },
   funnel: {
@@ -188,7 +188,7 @@ const privat: VariantContent = {
     headline: 'Kühle Räume. Kein Blick von außen. Kein Ausbleichen.',
     sub: 'Wir bringen Sonnenschutzfolien direkt aufs Glas – schnell, sauber und ohne Bauchaos. Sichtbare Wirkung ab dem ersten Sonnentag.',
     cta: 'In 60 Sekunden zum Angebot',
-    image: '/images/header-05.png',
+    image: '/images/header-05.jpg',
     imageAlt: 'Modernes Einfamilienhaus mit großen Glasflächen in der Abendsonne',
   },
   pain: {
@@ -215,7 +215,7 @@ const privat: VariantContent = {
   agitation: {
     headline: 'Sonnenschutz von innen reicht nicht.',
     text: 'Plissees, Rollos und Gardinen halten nur die Sonne ab, nachdem sie bereits durch das Glas ist. Die Wärme staut sich genauso, die UV-Strahlung gelangt weiter zum Boden, der Einblick von außen bleibt – außer alles ist permanent geschlossen. Eine professionell verklebte Sonnenschutzfolie löst alle drei Probleme zusammen, direkt am Glas.',
-    image: '/images/header-03.png',
+    image: '/images/header-03.jpg',
     imageAlt: 'Wohngebäude mit modernen Glasfronten',
   },
   funnel: {

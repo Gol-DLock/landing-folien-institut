@@ -169,7 +169,7 @@ export default function Funnel({ tree }: { tree: Tree }) {
         {phase !== 'questions' && phase !== 'success' && (
           <div className="relative hidden md:col-span-2 md:block">
             <Image
-              src="/images/header-01.png"
+              src="/images/header-01.jpg"
               alt=""
               fill
               sizes="(min-width: 768px) 40vw, 0"
